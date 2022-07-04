@@ -5,6 +5,6 @@
 <title>GET送信</title>
 </head>
 <body>
-gitのcommit2回目
+gitのcommit3回目
 </body>
 </html>

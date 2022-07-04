@@ -5,6 +5,6 @@
 <title>git</title>
 </head>
 <body>
-gitの勉強2回目
+gitの勉強3回目
 </body>
 </html>
